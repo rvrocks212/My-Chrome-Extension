@@ -1,0 +1,30 @@
+@import url(https://db.onlinewebfonts.com/c/0d2fc67532a7c000fa3b6d66f0a70103?family=Monorama);
+body {
+    font-family: "Monorama";
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    background-color: #2d2828;
+    color: #fff;
+    width: 200px;
+}
+
+
+.hexcodes {
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+
+.fonts,.icons,.react-ui,.upsplash,.colorHunt{
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
